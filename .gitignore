@@ -64652,7 +64652,6 @@ Recall: Refresh the page, start a new chat, and ask "What's my name and what am 
 
 🎓 Interview Preparation (Design Decisions)
 Q: Why 4 memory types and not a single vector database?
-
 A flat vector database is just a massive bucket of text. Human memory is structured. By separating Episodic (events) from Semantic (facts), we allow the system to consolidate raw events into abstract knowledge over time.
 
 Q: How does the Forgetting Algorithm work?
